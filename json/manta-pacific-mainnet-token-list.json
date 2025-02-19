@@ -409,21 +409,22 @@
       }
     },
     {
+    
       "chainId": 169,
       "chainURI": "https://pacific-explorer.manta.network/block/0",
-      "tokenId": "https://pacific-explorer.manta.network/address/0xbdAd407F77f44F7Da6684B416b1951ECa461FB07",
+      "tokenId": "https://pacific-explorer.manta.network/address/0x8bf66f7352266b59d11075c7a55e50bae0100979",
       "tokenType": ["canonical-bridge"],
-      "address": "0xbdAd407F77f44F7Da6684B416b1951ECa461FB07",
-      "name": "Wrapped Mountain Protocol USD",
-      "symbol": "wUSDM",
-      "decimals": 18,
-      "createdAt": "2023-11-27",
-      "updatedAt": "2023-12-14",
-      "logoURI": "https://raw.githubusercontent.com/Manta-Network/manta-pacific-token-list/main/logos/token_wrapped_mountain_protocol_usd.png",
+      "address": "0x8bf66f7352266b59d11075c7a55e50bae0100979",
+      "name": "XDICE GAME COMMUNITY",
+      "symbol": "XDICE.ONE",
+      "decimals": 9,
+      "createdAt": "2025-02-19",
+      "updatedAt": "2025-02-19",
+      "logoURI": "https://i.ibb.co/XxdBqW4c/xdice-logo.png",
       "extension": {
         "rootChainId": 1,
         "rootChainURI": "https://etherscan.io/block/0",
-        "rootAddress": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812"
+        "rootAddress": "0x4fa2f9c19dad7cd0df524fcf91e7ded785cde68b"
       }
     }
   ]
